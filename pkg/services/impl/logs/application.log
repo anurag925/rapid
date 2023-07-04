@@ -1,0 +1,39 @@
+{"level":"info","ts":1688448531.932451,"caller":"core/backend_app.go:35","msg":"Logger and Config Initialized ..."}
+{"level":"debug","ts":1688448531.933354,"caller":"core/backend_app.go:36","msg":"Config Initialized ...","configs":{"UP":false,"Env":"development","DIR":"/Users/anuragupadhyay/Desktop/Anurag/work/rampnow-be","Port":3000,"DBHost":"smart-blob-2709.7s5.cockroachlabs.cloud","DBPort":26257,"DBUser":"anurag","DBPassword":"zIJRTuQmeHcRyYN7xNdLUg","DBName":"defaultdb","DBSSLMode":"verify-full","DBUrl":"root@tcp(127.0.0.1:3306)/rapid?parseTime=true","JwtSecret":"secret","RedisHost":"127.0.0.1","RedisPort":"6379","RedisDB":1,"RedisPassword":"","RedisMaxRetry":10,"RedisPoolSize":5,"Region":"eu-north-1","AccessKeyID":"AJBHSYSAJGASGAGA","SecretAccessKey":"bhajdbajbajhbasdbasdasdabsjdbasjdash","DocumentS3Bucket":"docs-rampnow","SmtpHost":"email-smtp.eu-north-1.amazonaws.com","SmtpPort":"2465","SmtpUsername":"ieijadlnieahfai","SmtpPassword":"dbaudegdahcaucnachacheichehc","WorkerRedisDB":2}}
+{"level":"info","ts":1688448531.933562,"caller":"core/backend_app.go:37","msg":"Starting Application ..."}
+{"level":"info","ts":1688448531.93358,"caller":"initializers/http_server.go:21","msg":"Starting init ..."}
+{"level":"info","ts":1688448531.933671,"caller":"initializers/http_server.go:39","msg":"Starting server ..."}
+{"level":"info","ts":1688448531.9336908,"caller":"initializers/mysql_db.go:22","msg":"DB connection init ..."}
+{"level":"info","ts":1688448531.9420002,"caller":"initializers/mysql_db.go:31","msg":"DB connection completed ..."}
+{"level":"info","ts":1688448531.9420512,"caller":"initializers/redis_cache.go:18","msg":"Redis connection init ..."}
+{"level":"info","ts":1688448531.943236,"caller":"initializers/redis_cache.go:23","msg":"Redis connection done ..."}
+{"level":"info","ts":1688448531.943273,"caller":"initializers/async_worker.go:24","msg":"Async worker init ..."}
+{"level":"info","ts":1688448531.943423,"caller":"initializers/async_worker.go:33","msg":"Async worker init done ..."}
+{"level":"info","ts":1688448531.943437,"caller":"core/backend_app.go:50","msg":"Basic App init done ..."}
+{"level":"debug","ts":1688448531.943855,"caller":"logger/logger.go:30","msg":"printing configs","configs":{"UP":false,"Env":"development","DIR":"/Users/anuragupadhyay/Desktop/Anurag/work/rampnow-be","Port":3000,"DBHost":"smart-blob-2709.7s5.cockroachlabs.cloud","DBPort":26257,"DBUser":"anurag","DBPassword":"zIJRTuQmeHcRyYN7xNdLUg","DBName":"defaultdb","DBSSLMode":"verify-full","DBUrl":"root@tcp(127.0.0.1:3306)/rapid?parseTime=true","JwtSecret":"secret","RedisHost":"127.0.0.1","RedisPort":"6379","RedisDB":1,"RedisPassword":"","RedisMaxRetry":10,"RedisPoolSize":5,"Region":"eu-north-1","AccessKeyID":"AJBHSYSAJGASGAGA","SecretAccessKey":"bhajdbajbajhbasdbasdasdabsjdbasjdash","DocumentS3Bucket":"docs-rampnow","SmtpHost":"email-smtp.eu-north-1.amazonaws.com","SmtpPort":"2465","SmtpUsername":"ieijadlnieahfai","SmtpPassword":"dbaudegdahcaucnachacheichehc","WorkerRedisDB":2}}
+{"level":"info","ts":1688448535.6513898,"caller":"core/backend_app.go:35","msg":"Logger and Config Initialized ..."}
+{"level":"debug","ts":1688448535.651932,"caller":"core/backend_app.go:36","msg":"Config Initialized ...","configs":{"UP":false,"Env":"development","DIR":"/Users/anuragupadhyay/Desktop/Anurag/work/rampnow-be","Port":3000,"DBHost":"smart-blob-2709.7s5.cockroachlabs.cloud","DBPort":26257,"DBUser":"anurag","DBPassword":"zIJRTuQmeHcRyYN7xNdLUg","DBName":"defaultdb","DBSSLMode":"verify-full","DBUrl":"root@tcp(127.0.0.1:3306)/rapid?parseTime=true","JwtSecret":"secret","RedisHost":"127.0.0.1","RedisPort":"6379","RedisDB":1,"RedisPassword":"","RedisMaxRetry":10,"RedisPoolSize":5,"Region":"eu-north-1","AccessKeyID":"AJBHSYSAJGASGAGA","SecretAccessKey":"bhajdbajbajhbasdbasdasdabsjdbasjdash","DocumentS3Bucket":"docs-rampnow","SmtpHost":"email-smtp.eu-north-1.amazonaws.com","SmtpPort":"2465","SmtpUsername":"ieijadlnieahfai","SmtpPassword":"dbaudegdahcaucnachacheichehc","WorkerRedisDB":2}}
+{"level":"info","ts":1688448535.652121,"caller":"core/backend_app.go:37","msg":"Starting Application ..."}
+{"level":"info","ts":1688448535.652148,"caller":"initializers/http_server.go:21","msg":"Starting init ..."}
+{"level":"info","ts":1688448535.652222,"caller":"initializers/http_server.go:39","msg":"Starting server ..."}
+{"level":"info","ts":1688448535.652236,"caller":"initializers/mysql_db.go:22","msg":"DB connection init ..."}
+{"level":"info","ts":1688448535.655896,"caller":"initializers/mysql_db.go:31","msg":"DB connection completed ..."}
+{"level":"info","ts":1688448535.655915,"caller":"initializers/redis_cache.go:18","msg":"Redis connection init ..."}
+{"level":"info","ts":1688448535.657145,"caller":"initializers/redis_cache.go:23","msg":"Redis connection done ..."}
+{"level":"info","ts":1688448535.657154,"caller":"initializers/async_worker.go:24","msg":"Async worker init ..."}
+{"level":"info","ts":1688448535.657234,"caller":"initializers/async_worker.go:33","msg":"Async worker init done ..."}
+{"level":"info","ts":1688448535.657241,"caller":"core/backend_app.go:50","msg":"Basic App init done ..."}
+{"level":"info","ts":1688448535.6574988,"caller":"logger/logger.go:34","msg":"app not up","up":false}
+{"level":"info","ts":1688448584.187424,"caller":"core/backend_app.go:35","msg":"Logger and Config Initialized ..."}
+{"level":"debug","ts":1688448584.1880078,"caller":"core/backend_app.go:36","msg":"Config Initialized ...","configs":{"UP":false,"Env":"development","DIR":"/Users/anuragupadhyay/Desktop/Anurag/work/rampnow-be","Port":3000,"DBHost":"smart-blob-2709.7s5.cockroachlabs.cloud","DBPort":26257,"DBUser":"anurag","DBPassword":"zIJRTuQmeHcRyYN7xNdLUg","DBName":"defaultdb","DBSSLMode":"verify-full","DBUrl":"root@tcp(127.0.0.1:3306)/rapid?parseTime=true","JwtSecret":"secret","RedisHost":"127.0.0.1","RedisPort":"6379","RedisDB":1,"RedisPassword":"","RedisMaxRetry":10,"RedisPoolSize":5,"Region":"eu-north-1","AccessKeyID":"AJBHSYSAJGASGAGA","SecretAccessKey":"bhajdbajbajhbasdbasdasdabsjdbasjdash","DocumentS3Bucket":"docs-rampnow","SmtpHost":"email-smtp.eu-north-1.amazonaws.com","SmtpPort":"2465","SmtpUsername":"ieijadlnieahfai","SmtpPassword":"dbaudegdahcaucnachacheichehc","WorkerRedisDB":2}}
+{"level":"info","ts":1688448584.1881611,"caller":"core/backend_app.go:37","msg":"Starting Application ..."}
+{"level":"info","ts":1688448584.188173,"caller":"initializers/http_server.go:21","msg":"Starting init ..."}
+{"level":"info","ts":1688448584.188261,"caller":"initializers/http_server.go:39","msg":"Starting server ..."}
+{"level":"info","ts":1688448584.188273,"caller":"initializers/mysql_db.go:22","msg":"DB connection init ..."}
+{"level":"info","ts":1688448584.2035048,"caller":"initializers/mysql_db.go:31","msg":"DB connection completed ..."}
+{"level":"info","ts":1688448584.203574,"caller":"initializers/redis_cache.go:18","msg":"Redis connection init ..."}
+{"level":"info","ts":1688448584.204522,"caller":"initializers/redis_cache.go:23","msg":"Redis connection done ..."}
+{"level":"info","ts":1688448584.204563,"caller":"initializers/async_worker.go:24","msg":"Async worker init ..."}
+{"level":"info","ts":1688448584.20476,"caller":"initializers/async_worker.go:33","msg":"Async worker init done ..."}
+{"level":"info","ts":1688448584.2047732,"caller":"core/backend_app.go:50","msg":"Basic App init done ..."}
+{"level":"info","ts":1688448584.20499,"caller":"logger/logger.go:34","msg":"app not up","up":false}
