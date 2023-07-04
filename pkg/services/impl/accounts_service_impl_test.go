@@ -3,9 +3,9 @@ package impl
 import (
 	"context"
 	"fmt"
-	"rapid/pkg/models"
-	"rapid/pkg/repositories"
-	"rapid/pkg/services"
+	"github.com/anurag925/rapid/pkg/models"
+	"github.com/anurag925/rapid/pkg/repositories"
+	"github.com/anurag925/rapid/pkg/services"
 	"reflect"
 	"testing"
 )

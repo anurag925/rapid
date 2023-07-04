@@ -3,8 +3,8 @@ package initializers
 import (
 	"context"
 
-	"rapid/app/configs"
-	"rapid/utils/logger"
+	"github.com/anurag925/rapid/app/configs"
+	"github.com/anurag925/rapid/utils/logger"
 
 	"github.com/brpaz/echozap"
 	"github.com/labstack/echo/v4"

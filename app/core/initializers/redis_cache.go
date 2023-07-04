@@ -4,8 +4,8 @@ import (
 	"context"
 	"crypto/tls"
 	"fmt"
-	"rapid/app/configs"
-	"rapid/utils/logger"
+	"github.com/anurag925/rapid/app/configs"
+	"github.com/anurag925/rapid/utils/logger"
 
 	"github.com/redis/go-redis/v9"
 )

@@ -2,9 +2,9 @@ package main
 
 import (
 	"context"
-	"rapid/app"
-	"rapid/app/core"
-	"rapid/utils/logger"
+	"github.com/anurag925/rapid/app"
+	"github.com/anurag925/rapid/app/core"
+	"github.com/anurag925/rapid/utils/logger"
 )
 
 func main() {

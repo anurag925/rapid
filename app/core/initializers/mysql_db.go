@@ -3,9 +3,9 @@ package initializers
 import (
 	"context"
 	"database/sql"
-	"rapid/app"
-	"rapid/app/configs"
-	"rapid/utils/logger"
+	"github.com/anurag925/rapid/app"
+	"github.com/anurag925/rapid/app/configs"
+	"github.com/anurag925/rapid/utils/logger"
 
 	_ "github.com/go-sql-driver/mysql"
 	"github.com/uptrace/bun"

@@ -4,9 +4,9 @@ import (
 	"context"
 	"sync"
 
-	"rapid/app/configs"
-	"rapid/utils/logger"
-	"rapid/utils/task"
+	"github.com/anurag925/rapid/app/configs"
+	"github.com/anurag925/rapid/utils/logger"
+	"github.com/anurag925/rapid/utils/task"
 
 	"github.com/labstack/echo/v4"
 	"github.com/redis/go-redis/v9"

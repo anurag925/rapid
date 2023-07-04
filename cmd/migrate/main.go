@@ -1,8 +1,8 @@
 package main
 
 import (
-	"rapid/app"
-	"rapid/app/core"
+	"github.com/anurag925/rapid/app"
+	"github.com/anurag925/rapid/app/core"
 )
 
 func main() {

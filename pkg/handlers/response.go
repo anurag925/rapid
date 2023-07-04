@@ -1,10 +1,10 @@
 package handlers
 
 import (
+	"github.com/anurag925/rapid/app"
+	"github.com/anurag925/rapid/app/configs"
+	"github.com/anurag925/rapid/utils/logger"
 	"net/http"
-	"rapid/app"
-	"rapid/app/configs"
-	"rapid/utils/logger"
 
 	"github.com/labstack/echo/v4"
 )

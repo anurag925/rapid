@@ -2,9 +2,9 @@ package routes
 
 import (
 	"context"
-	"rapid/app"
-	"rapid/pkg/handlers"
-	"rapid/utils/logger"
+	"github.com/anurag925/rapid/app"
+	"github.com/anurag925/rapid/pkg/handlers"
+	"github.com/anurag925/rapid/utils/logger"
 
 	"github.com/golang-jwt/jwt/v5"
 	echojwt "github.com/labstack/echo-jwt/v4"

@@ -8,10 +8,10 @@ import (
 	"os/signal"
 	"time"
 
-	"rapid/app"
-	"rapid/app/core"
-	"rapid/pkg/routes"
-	"rapid/utils/logger"
+	"github.com/anurag925/rapid/app"
+	"github.com/anurag925/rapid/app/core"
+	"github.com/anurag925/rapid/pkg/routes"
+	"github.com/anurag925/rapid/utils/logger"
 )
 
 func main() {

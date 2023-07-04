@@ -2,11 +2,11 @@ package impl
 
 import (
 	"context"
-	"rapid/app"
-	"rapid/pkg/models"
-	"rapid/pkg/repositories"
-	"rapid/pkg/services"
-	"rapid/utils/jwt"
+	"github.com/anurag925/rapid/app"
+	"github.com/anurag925/rapid/pkg/models"
+	"github.com/anurag925/rapid/pkg/repositories"
+	"github.com/anurag925/rapid/pkg/services"
+	"github.com/anurag925/rapid/utils/jwt"
 
 	goJwt "github.com/golang-jwt/jwt/v5"
 

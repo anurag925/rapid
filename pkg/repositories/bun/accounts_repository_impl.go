@@ -2,8 +2,8 @@ package bun
 
 import (
 	"context"
-	"rapid/pkg/models"
-	"rapid/pkg/repositories"
+	"github.com/anurag925/rapid/pkg/models"
+	"github.com/anurag925/rapid/pkg/repositories"
 
 	"github.com/uptrace/bun"
 	"golang.org/x/crypto/bcrypt"

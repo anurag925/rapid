@@ -4,9 +4,9 @@ import (
 	"context"
 	"net/http"
 
-	"rapid/pkg/services"
-	"rapid/pkg/services/impl"
-	"rapid/utils/logger"
+	"github.com/anurag925/rapid/pkg/services"
+	"github.com/anurag925/rapid/pkg/services/impl"
+	"github.com/anurag925/rapid/utils/logger"
 
 	"github.com/labstack/echo/v4"
 )

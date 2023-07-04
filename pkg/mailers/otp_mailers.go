@@ -1,6 +1,6 @@
 package mailers
 
-import "rapid/pkg/models"
+import "github.com/anurag925/rapid/pkg/models"
 
 type OtpMailer struct {
 	From string

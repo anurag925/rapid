@@ -3,9 +3,9 @@ package impl
 import (
 	"context"
 
-	"rapid/app"
-	"rapid/pkg/services"
-	"rapid/utils/logger"
+	"github.com/anurag925/rapid/app"
+	"github.com/anurag925/rapid/pkg/services"
+	"github.com/anurag925/rapid/utils/logger"
 )
 
 type healthCheckService struct {

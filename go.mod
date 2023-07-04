@@ -1,4 +1,4 @@
-module rapid
+module github.com/anurag925/rapid
 
 go 1.20
 

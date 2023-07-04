@@ -2,8 +2,8 @@ package scripts
 
 import (
 	"fmt"
-	"rapid/pkg/mailers"
-	"rapid/pkg/models"
+	"github.com/anurag925/rapid/pkg/mailers"
+	"github.com/anurag925/rapid/pkg/models"
 )
 
 func SendTransactionOtpMail() {

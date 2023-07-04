@@ -3,8 +3,8 @@ package storage
 import (
 	"context"
 	"fmt"
+	"github.com/anurag925/rapid/utils/logger"
 	"io"
-	"rapid/utils/logger"
 	"time"
 
 	"github.com/aws/aws-sdk-go/aws"

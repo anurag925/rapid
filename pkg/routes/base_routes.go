@@ -4,9 +4,9 @@ import (
 	"encoding/json"
 	"os"
 
-	"rapid/app"
-	"rapid/app/configs"
-	"rapid/pkg/handlers"
+	"github.com/anurag925/rapid/app"
+	"github.com/anurag925/rapid/app/configs"
+	"github.com/anurag925/rapid/pkg/handlers"
 )
 
 func Init() {

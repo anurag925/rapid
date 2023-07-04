@@ -3,10 +3,10 @@ package core
 import (
 	"context"
 	"fmt"
-	"rapid/app"
-	"rapid/app/configs"
-	"rapid/app/core/initializers"
-	"rapid/utils/logger"
+	"github.com/anurag925/rapid/app"
+	"github.com/anurag925/rapid/app/configs"
+	"github.com/anurag925/rapid/app/core/initializers"
+	"github.com/anurag925/rapid/utils/logger"
 )
 
 type backendApp struct {

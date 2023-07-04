@@ -2,7 +2,7 @@ package validator
 
 import (
 	"context"
-	"rapid/utils/logger"
+	"github.com/anurag925/rapid/utils/logger"
 	"sync"
 
 	"github.com/go-playground/validator/v10"

@@ -2,7 +2,7 @@ package repositories
 
 import (
 	"context"
-	"rapid/pkg/models"
+	"github.com/anurag925/rapid/pkg/models"
 )
 
 type AccountRepository interface {

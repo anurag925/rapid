@@ -1,7 +1,7 @@
 package handlers
 
 import (
-	"rapid/pkg/models"
+	"github.com/anurag925/rapid/pkg/models"
 
 	"github.com/labstack/echo/v4"
 )
